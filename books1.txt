@@ -1,0 +1,51 @@
+
+1,The Silent Patient,Alex Michaelides
+2,Where the Crawdads Sing,Delia Owens
+3,The Nightingale,Kristin Hannah
+4,Big Little Lies,Liane Moriarty
+5,The Great Alone,Kristin Hannah
+6,The Alice Network,Kate Quinn
+7,The Woman in the Window,A.J. Finn
+8,The Tattooist of Auschwitz,Heather Morris
+9,Before We Were Strangers,Ren‚e Carlino
+10,Little Fires Everywhere,Celeste Ng
+11,The Dutch House,Ann Patchett
+12,The Light We Lost,Jill Santopolo
+13,All the Light We Cannot See,Anthony Doerr
+14,The Giver of Stars,Jojo Moyes
+15,Educated,Tara Westover
+16,Becoming,Michelle Obama
+17,Daisy Jones & The Six,Taylor Jenkins Reid
+18,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid
+19,The Huntress,Kate Quinn
+20,The Testament,Margaret Atwood
+21,City of Girls,Elizabeth Gilbert
+22,Where'd You Go,Bernadette?,Maria Semple
+23,The Rosie Project,Graeme Simsion
+24,Eleanor Oliphant Is Completely Fine,Gail Honeyman
+25,The Night Circus,Erin Morgenstern
+26,The Secret History,Donna Tartt
+27,Circe,Madeline Miller
+28,The Song of Achilles,Madeline Miller
+29,An American Marriage,Tayari Jones
+30,The Underground Railroad,Colson Whitehead
+31,The Goldfinch,Donna Tartt
+32,The Immortalists,Chloe Benjamin
+33,The Book Thief,Markus Zusak
+34,The Kite Runner,Khaled Hosseini
+35,A Thousand Splendid Suns,Khaled Hosseini
+36,And the Mountains Echoed,Khaled Hosseini
+37,The Glass Castle,Jeanette Walls
+38,The Light Between Oceans,M.L. Stedman
+39,The Road,Cormac McCarthy
+40,Life of Pi,Yann Martel
+41,The Handmaid's Tale,Margaret Atwood
+42,Oryx and Crake,Margaret Atwood
+43,The Blind Assassin,Margaret Atwood
+44,Alias Grace,Margaret Atwood
+45,The Power,Naomi Alderman
+46,Atonement,Ian McEwan
+47,The Remains of the Day,Kazuo Ishigur
+48,Never Let Me Go,Kazuo Ishiguro
+49,Lincoln in the Bardo,George Saunders
+50,Normal People,Sally Rooney
